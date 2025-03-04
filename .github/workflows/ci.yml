@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - main
+<<<<<<< HEAD
+=======
+  workflow_dispatch:
+>>>>>>> origin/docs-demo
 permissions:
   contents: write
 jobs:

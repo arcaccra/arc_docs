@@ -45,7 +45,11 @@
       },
       {
         "month": "2025-02",
+<<<<<<< HEAD
         "commits": 43
+=======
+        "commits": 58
+>>>>>>> origin/docs-demo
       }
     ]
   }

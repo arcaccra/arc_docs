@@ -1,0 +1,560 @@
+{
+  "main": {
+    "id": "486d313c2890efe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ff3583e7921e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f1f1e502f5591e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Decoloniality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Decoloniality"
+            }
+          },
+          {
+            "id": "c6e15a25bd0c0f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Storytelling with Metaphors & Symbols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Storytelling with Metaphors & Symbols"
+            }
+          },
+          {
+            "id": "55193f6ec9f95d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Embodied Systemic Constellations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Embodied Systemic Constellations"
+            }
+          },
+          {
+            "id": "59583faabaf7d7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/processes/enrolment.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "enrolment"
+            }
+          },
+          {
+            "id": "f908b7b80767c441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Deep Time Journeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deep Time Journeys"
+            }
+          },
+          {
+            "id": "61d23c9cba2132f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Ecosystem Mapping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ecosystem Mapping"
+            }
+          },
+          {
+            "id": "1f642e0fabf9d713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Deep Time Journeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deep Time Journeys"
+            }
+          },
+          {
+            "id": "fd90e43424e5a353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "a. Introduction"
+            }
+          },
+          {
+            "id": "a7803d3e122062db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "c. Design"
+            }
+          },
+          {
+            "id": "3b6505ef48ad85a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "b. Inspiration"
+            }
+          },
+          {
+            "id": "67fdb128bb4a9eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "d. Technology"
+            }
+          },
+          {
+            "id": "838adc885659220c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "b. Inspiration"
+            }
+          },
+          {
+            "id": "a080cea88ec86454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Core Value-Adding Process and Business Model"
+            }
+          },
+          {
+            "id": "6910cef3fe5fe3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Practices/Generative Inquiry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Generative Inquiry"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "587e2cc59c5e098a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cec4addf9a7079b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e4bb6a5c6a58ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfcfb24e6e5d8db8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6e8834566b2ef3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a49ceff6e9dc6c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3dbe0941a5c761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "493d2d40d2a30d03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "3c9638f99ddd70ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "0a076b31e14ca464",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d48cbd1edaf061b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "5b499eefbb64c497",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a080cea88ec86454",
+  "lastOpenFiles": [
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
+    "docs/pages/Evidence of evaluation-based adaptations made to event schedule.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/pages/core facilitator capacity.md",
+    "docs/pages/Accra Hub Call (10.02.2025).md",
+    "docs/methodologies/Enactment.md",
+    "docs/methodologies/Ground-Potentialising.md",
+    "docs/methodologies/Process-Infrastructuring.md",
+    "docs/processes/participants.md",
+    "docs/processes/Prisma as Process.md",
+    "docs/index.md",
+    "docs/processes/Core Processes.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/methodologies/Developmental Regenerative Evaluation",
+    "docs/Practices/Deep Time Journeys.md",
+    "docs/Practices/Ecosystem Mapping.md",
+    "docs/Practices/Warm Data Labs.md",
+    "docs/processes/enrolment.md",
+    "docs/Practices/Embodied Systemic Constellations.md",
+    "docs/Practices/Storytelling with Metaphors & Symbols.md",
+    "docs/Practices/Decoloniality.md",
+    "docs/Practices/Generative Inquiry.md",
+    "docs/pages/minioes.md",
+    "docs/Practices/Role Play.md",
+    "docs/Practices/Persona.md",
+    "docs/Practices",
+    "Gemfile",
+    "Gemfile.txt",
+    "_layouts/default.html",
+    "_layouts",
+    "_config.yml",
+    "requirements.txt",
+    "CNAME",
+    "Scripts/mdformat_obsidian.py",
+    "Pasted image 20241009144202.png",
+    "Assets/levels-of-work.png",
+    "Assets/levels-of-work.svg",
+    "Assets/character.png",
+    "Assets/character.svg",
+    "Y - Assets/layers.png",
+    "Y - Assets/vos-triad-bglight.png",
+    "Y - Assets/Pasted image 20240821144737.png",
+    "Y - Assets/prisma_moos.png",
+    "Y - Assets/teeming.svg"
+  ]
+}
