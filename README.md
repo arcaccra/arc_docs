@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# arc_docs
 Doc page for ARC-PRISMA
-=======
-# Contributing to Prisma Docs
 
 Thank you for contributing to our documentation! To maintain the highest quality and consistency, we have a few tools in place to automatically check and format Markdown files.
 
@@ -145,4 +141,3 @@ If the pre-commit hooks fail during a commit (e.g., due to Markdown formatting i
 - **Git Cheat Sheet**: [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 
 If you have any questions or need further assistance, feel free to reach out to the maintainers or open an issue on GitHub.
->>>>>>> origin/docs-demo
