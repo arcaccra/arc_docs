@@ -21,6 +21,10 @@
       {
         "month": "2025-02",
         "commits": 12
+      },
+      {
+        "month": "2025-03",
+        "commits": 0
       }
     ]
   },
@@ -45,11 +49,11 @@
       },
       {
         "month": "2025-02",
-<<<<<<< HEAD
-        "commits": 43
-=======
         "commits": 58
->>>>>>> origin/docs-demo
+      },
+      {
+        "month": "2025-03",
+        "commits": 0
       }
     ]
   }
