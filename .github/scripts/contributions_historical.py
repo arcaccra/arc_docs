@@ -5,8 +5,8 @@ from datetime import datetime, timezone
 from collections import defaultdict
 
 # GitHub Repo Details
-OWNER = "prisma-collective"
-REPO = "docs"
+OWNER = "arcaccra"
+REPO = "arc_docs"
 GITHUB_API_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/stats/contributors"
 HEADERS = {"Accept": "application/vnd.github.v3+json"}
 
