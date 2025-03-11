@@ -1,6 +1,9 @@
 Welcome to the Accra Resource Centre docs!
 
-[[]]
+[[User-base Summaries]]
+[[Core developer capacities]]
+[[Letter of commitment]]
+
 ## Contributions
 
 <canvas id="contributionsChart"></canvas>
