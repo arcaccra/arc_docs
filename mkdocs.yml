@@ -1,5 +1,5 @@
-site_name: Prisma
-site_description: Documentation for Prisma
+site_name: Accra Resource Centre
+site_description: Documentation for ARC
 docs_dir: docs
 
 theme:
@@ -31,9 +31,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/prisma-collective/
+      link: https://github.com/arcaccra/
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/prisma-collective
+      link: https://www.linkedin.com/company/accra-resource-center
   generator: false  # Removes the "Made with Material for MkDocs" text
 
 # Include custom CSS or fonts
