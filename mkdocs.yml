@@ -66,6 +66,10 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - encryptcontent:
+      global_password: false 
+      remember_password: true
+      encryption_info_message: "This page is encrypted. Please enter the password to view its contents."
 
 extra_javascript:
   - javascripts/mathjax.js

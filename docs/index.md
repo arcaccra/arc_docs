@@ -1,8 +1,10 @@
+![[arc_logo.png]]
+
 Welcome to the Accra Resource Centre docs!
 
-[[User-base Summaries]]
-[[Core developer capacities]]
-[[Letter of commitment]]
+- [[User-base Summaries]]
+- [[Core Developer Capacities]]
+- [[Letter of Commitment]]
 
 ## Contributions
 
