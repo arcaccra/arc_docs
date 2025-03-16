@@ -99,65 +99,34 @@ Communication: developers able to (help) translate technical details to a non-te
 #### 2.1. Technology Stack and Tools
 
 - Cloud Infrastructure:
-    
-
 - AWS, Google Cloud for scalable cloud hosting, data storage, and computing power.
-    
-
 - Development Tools:
-    
-
 - GitHub and GitLab for version control and collaboration.
-    
 - CI/CD Pipelines for automated testing, integration, and continuous deployment.
-    
-
 - Analytics and Data Visualization:
-    
-
 - Google Analytics, Power BI and other custom metrics tools for advanced data analytics and community insights.
-    
+
 
 ### 2.2. Learning Hub and Facilities
 
 - Inclusive Learning Hub:
-    
+	- Purpose: A dynamic and inclusive space designed to empower diverse community members to explore, prototype, and build software solutions. This hub fosters creativity, collaboration, and hands-on learning, ensuring equitable access to technology and knowledge.
 
-- Purpose: A dynamic and inclusive space designed to empower diverse community members to explore, prototype, and build software solutions. This hub fosters creativity, collaboration, and hands-on learning, ensuring equitable access to technology and knowledge.
-    
 - Programs and Workshops:
-    
-
-- Prototyping Bootcamps: Guided sessions where participants learn the fundamentals of software prototyping and rapid iteration.
-    
-- Hackathons and Innovation Challenges: Community-driven events encouraging collaborative problem-solving and digital innovation.
-    
-- Skill Development Workshops: Hands-on coding sessions and software development tutorials tailored for beginners to advanced learners.
-    
-- Mentorship and Collaboration: Access to industry mentors, peer learning, and collaborative workspaces for co-creating digital solutions.
-    
+	- Prototyping Bootcamps: Guided sessions where participants learn the fundamentals of software prototyping and rapid iteration.
+	- Hackathons and Innovation Challenges: Community-driven events encouraging collaborative problem-solving and digital innovation.
+	- Skill Development Workshops: Hands-on coding sessions and software development tutorials tailored for beginners to advanced learners.
+	- Mentorship and Collaboration: Access to industry mentors, peer learning, and collaborative workspaces for co-creating digital solutions.
 
 - Tools and Technologies Available:
-    
-
-- Computers pre-loaded with development tools and frameworks (e.g., React.js, Node.js, Python, Flutter).
-    
-- Access to cloud platforms such as AWS and Google Cloud for scalable prototyping and testing.
-    
-- *IoT devices for experimenting with emerging technologies - Through GAIA.
-    
+	- Computers pre-loaded with development tools and frameworks (e.g., React.js, Node.js, Python, Flutter).
+	- Access to cloud platforms such as AWS and Google Cloud for scalable prototyping and testing.
+	- *IoT devices for experimenting with emerging technologies - Through GAIA.
 
 - Activities and Engagements:
-    
-
-- Participatory Design Sessions: Facilitated workshops where community members share insights and collaborate on solution design.
-    
-- Feedback Integration Loops: Regular feedback sessions to refine prototypes and ensure relevance and usability.
-    
-- Inclusive Dialogue Formats: Storytelling, visual communication, and multilingual dialogue methods to include diverse community voices.
-    
-
-  
+	- Participatory Design Sessions: Facilitated workshops where community members share insights and collaborate on solution design.
+	- Feedback Integration Loops: Regular feedback sessions to refine prototypes and ensure relevance and usability.
+	- Inclusive Dialogue Formats: Storytelling, visual communication, and multilingual dialogue methods to include diverse community voices.
 
 #### 2.3. Skilled Workforce and Talent Pool
 
@@ -202,7 +171,3 @@ Communication: developers able to (help) translate technical details to a non-te
 - Innovative Mindset: Commitment to leveraging cutting-edge technologies (Blockchain, AI, Web3) for transformative digital solutions.
     
 - Community-Centric Approach: Focus on human-centered design and inclusive development, aligning with Prisma’s vision of regenerative development.
-    
-
-  
-**
