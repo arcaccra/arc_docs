@@ -1,6 +1,8 @@
 # User-base Summaries
 ## Context
-This page outlines early-stage documentation and community insights gathered by the Accra hub as part of preparations for the upcoming in-person intensive. As a locally grounded learning centre, the hub plays a key role in direct outreach, communication, and participant sign-ups for the event. Some prospective participants are already actively enrolling into the program. While formal documentation may be limited at this stage, our approach is grounded in trust and local knowledge. The user base referenced here draws from a much broader pool of community members, with whom we have longstanding engagement, and from which we are confident a committed group will join the co-design process and help develop locally relevant dApps during the event.
+This page outlines early-stage documentation and community insights gathered by the Accra hub as part of preparations for the upcoming in-person intensive. As a locally-grounded learning centre, the hub plays a key role in direct outreach, communication, and participant sign-ups for the event. Some prospective participants are already actively enrolling into the program, as shown in the growing table of sign-ups below (registering on [register.prisma.events](https://register.prisma.events)). While formal documentation may be limited at this stage, our approach is grounded in partnership trust and local knowledge. The user bases referenced here draw from a much broader pool of communities, with whom the hub have longstanding engagements with. We are confident that a sub-set of committed community members will join the co-design process as users and help develop locally relevant dApps during the event.
+
+![[Pasted image 20250411142540.png]]
 
 ### Community Dialogue Strategy for Prisma and ARC: Engaging Stakeholders in West Legon, Accra
 
