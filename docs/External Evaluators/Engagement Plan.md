@@ -1,6 +1,10 @@
-Engagement Plan for External Evaluators
+There are our evaluators: 
 
-Objective: To ensure smooth coordination and communication with external evaluators during the Accra action-learning journey.
+1. [[Bernada Saine]]
+2. [[Clement Matormwasen]]
+3. [[Harry Heller]]
+
+**Objective:** To ensure smooth coordination and communication with external evaluators during the Accra action-learning journey. The below plan has been used to engage the external evaluators and schedule the calls for participants to present their work.
 
 ### 1. Confirm Availabilities & Dates  
 - Reach out to evaluators to confirm availability for the two calls:  
