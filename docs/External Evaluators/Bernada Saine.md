@@ -6,6 +6,6 @@ Her previous work was to facilitate learning communities in a School Climate and
 
 She believes that by deeply connecting with ourselves, with others, with the environment around us, we can find new and better practices that enhance well-being and learning, which can guide us towards a more harmonious and sustainable lifestyle.
 
-https://iniciativamurmullo.com/quienes-somos/
+[Iniciativa Murmullo](https://iniciativamurmullo.com/quienes-somos/)
 
-https://www.linkedin.com/in/bernarda-saine/
+[LinkedIn](https://www.linkedin.com/in/bernarda-saine/)
