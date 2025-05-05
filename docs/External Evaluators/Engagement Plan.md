@@ -1,8 +1,8 @@
-There are our evaluators: 
+These are our evaluators. You can read about their backgrounds here:
 
 1. [[Bernada Saine]]
 2. [[Clement Matormwasen]]
-3. [[Harry Heller]]
+3. [[Harry Hellyer]]
 
 **Objective:** To ensure smooth coordination and communication with external evaluators during the Accra action-learning journey. The below plan has been used to engage the external evaluators and schedule the calls for participants to present their work.
 
