@@ -11,8 +11,8 @@ In the final session of the day, around 2:00 p.m. GMT, Shikhar facilitated an ev
 
 ## Event Highlights
 ![[PXL_20250519_140330774.PORTRAIT.jpg]]
-*Participants engaging in team-building exercises during the morning session led by Tobias.*
+*Reflection exercise during which participants were encouraged to share their reflections with each other, led by all facilitators.*
 
 ![[PXL_20250519_144226970.jpg]]
-*Participants sharing their reflections and community insights during the debrief after the walk facilitated by Delfine.*
+*Team excercise session before Shikh's session. A fun exercise to stretch and get ready for the last session of the day.*
 
