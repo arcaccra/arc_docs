@@ -1,5 +1,13 @@
 # Day 1 - Accra Action Learning Journey
 
+## Wake-up Exercise: Embodied Space Reorganization
+
+This morning began with a 90-minute wake-up exercise designed to give participants an embodied experience of the action learning journey. Participants were tasked with reorganizing the room for the day’s activities under specific role-based constraints:
+- **Sight**: Some participants wore blindfolds.
+- **Movement**: Some were unable to move without guidance.
+- **Speech**: Some could not speak.
+A diagram of the action learning process was displayed on screen throughout the activity as a visual reference. The purpose was to emphasize self-organization, adaptive communication, and collaborative problem-solving in a tangible, embodied way.
+
 ## Welcome and Opening Session
 
 The Accra Action Learning Journey (ALJ) commenced on a high note at the Accra Resource Centre with 12 enthusiastic participants drawn from diverse professional and community backgrounds. These included community organizers, educators, environmental advocates, and youth leaders. The morning session began with a dynamic and interactive exercise facilitated by Tobias, focusing on the principles of teamwork, collaboration, and shared leadership. 
@@ -31,11 +39,11 @@ This was followed by a full group conversation where participants shared their a
 
 ## Participant Reviews
 
-> “I really enjoyed Tobias’ session. It helped me realize how much value I bring when I listen more and speak with intention.” – Participant A
+> “I really enjoyed Tobias’ session. It helped me realize how much value I bring when I listen more and speak with intention.” – Clifford
 
-> “The community walk made me think about my own neighborhood differently. I’m inspired to take action on the things I usually ignore.” – Participant B
+> “The community walk made me think about my own neighborhood differently. I’m inspired to take action on the things I usually ignore.” – Enoch
 
-> “Shikhar’s session helped me clarify my goals. I now have a better idea of the kind of leader I want to become.” – Participant C
+> “Shikhar’s session helped me clarify my goals. I now have a better idea of the kind of leader I want to become.” – Abdul Rahman
 
 ## Conclusion
 
@@ -43,4 +51,4 @@ Day 1 of the Accra Action Learning Journey was a powerful start to what promises
 
 ## What’s Next?
 
-On Day 2, we will begin with a continuation of Tobias’ team dynamics session in the morning, followed by a deep dive into the Action Learning Table process led by Delphine. The group looks forward to applying today’s insights in practical, collaborative ways as they continue to co-create solutions for their communities.
+On Day 2, we will begin with a 90-minute wake-up exercise to revisit the embodied space reorganization activity, introducing new role-based constraints to deepen participants' self-organization and adaptive collaboration skills. We will then continue with Tobias’ team dynamics session in the morning, followed by a deep dive into the Action Learning Table process led by Delphine. The group looks forward to applying today’s insights in practical, collaborative ways as they continue to co-create solutions for their communities.
