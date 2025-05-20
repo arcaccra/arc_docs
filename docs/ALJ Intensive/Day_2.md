@@ -44,9 +44,12 @@ Each group mapped current realities to potential initiatives, yielding:
 - **Structured programs** to curb substance addiction.
 - A **community ride-sharing software prototype** for traffic relief.
 
+
 ![[PXL_20250520_133153318.MP.jpg]]
 
 ![[PXL_20250520_132126371.MP.jpg]]
+
+<small>*Participants sharing information from their gorup sessions, facilitated by Delfine*</small>
 
 ## Afternoon Session: Stretching & Timelining
 After lunch at **2:30 PM GMT**, everyone reconvened with a brief **stretching exercise** to re-energize.
