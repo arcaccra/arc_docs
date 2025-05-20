@@ -16,6 +16,7 @@ A visual diagram of the full Action Learning Journey remained displayed to ancho
 <small>*Tabs walking participants through self-organising leadership*</small>
 
 ## Morning Session: Emergent Learning (EL) Tables
+![[Screenshot 2025-05-20 at 4.10.52 PM.png]]
 At **11:00 AM GMT**, Delphine introduced the Emergent Learning Tables, structured into four quadrants:
 1. **Past**  
    - Ground Truths (Facts & Challenges)  
