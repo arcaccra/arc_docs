@@ -10,7 +10,10 @@ The day began at **9:30 AM GMT** with Tabs guiding participants through a deeper
 
 Participants shared brief reflections on how the concepts of potentialising and emergent leadership felt different from typical training. This debrief helped ground the theoretical ideas in lived experience.
 
-A visual diagram of the full Action Learning Journey remained displayed to anchor the morning’s discussions.
+A visual diagram of the full Action Learning Journey remained displayed to anchor the morning’s discussions.\
+
+![[PXL_20250520_112358640.MP.jpg]]
+<small>*Tabs walking participants through self-organising leadership*</small>
 
 ## Morning Session: Emergent Learning (EL) Tables
 At **11:00 AM GMT**, Delphine introduced the Emergent Learning Tables, structured into four quadrants:
@@ -40,6 +43,10 @@ Each group mapped current realities to potential initiatives, yielding:
 - A **community-led flood response plan**.
 - **Structured programs** to curb substance addiction.
 - A **community ride-sharing software prototype** for traffic relief.
+
+![[PXL_20250520_133153318.MP.jpg]]
+
+![[PXL_20250520_132126371.MP.jpg]]
 
 ## Afternoon Session: Stretching & Timelining
 After lunch at **2:30 PM GMT**, everyone reconvened with a brief **stretching exercise** to re-energize.
