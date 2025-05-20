@@ -48,7 +48,6 @@ Each group mapped current realities to potential initiatives, yielding:
 ![[PXL_20250520_133153318.MP.jpg]]
 
 ![[PXL_20250520_132126371.MP.jpg]]
-
 <small>*Participants sharing information from their gorup sessions, facilitated by Delfine*</small>
 
 ## Afternoon Session: Stretching & Timelining
