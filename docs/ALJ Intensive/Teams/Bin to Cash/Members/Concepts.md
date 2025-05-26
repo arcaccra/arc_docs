@@ -12,4 +12,12 @@ Tracks pickup history & rewards
 Collector App (waste pickers):
 Accepts pickup request via GPS
 Confirms waste type (sorted/unsorted)
-Delivers
+Delivers to recycling centers
+
+Recycling Company Dashboard:
+verifies & weighs received waste
+approves payments to collectors 
+
+Basic Blockchain Integration:
+Sma
+
