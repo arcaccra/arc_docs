@@ -12,4 +12,4 @@ Tracks pickup history & rewards
 Collector App (waste pickers):
 Accepts pickup request via GPS
 Confirms waste type (sorted/unsorted)
-Del
+Delivers
