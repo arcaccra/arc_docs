@@ -50,3 +50,7 @@ We realized we needed **a simple, trackable system** with **instant incentives**
 
 ```plaintext
 Sort → Collect → Verify → Pay
+```
+
+
+```
