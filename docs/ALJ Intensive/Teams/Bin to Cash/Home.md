@@ -26,10 +26,10 @@ We started by listening: talking to households, collectors, recyclers, and local
 - Observed informal waste collection
 - Interviewed 20 recyclers
 
-### 🔴 Phase 2: What Didn't Work[¶](https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/Home/#phase-2-what-didnt-work "Permanent link")
+### 🔴 Phase 2: What isn't Working[¶](https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/Home/#phase-2-what-isn't-working "Permanent link")
 
-- Tried cash-for-waste without verification
-- Piloted an SMS-only system (low adoption)
+- There isn't an efficient means to connect the stakeholders in the system
+- Current systems doesn't have a lot of waste creators on board 
 
 ### 🟢 Phase 3: The Breakthrough[¶](https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/Home/#phase-3-the-breakthrough "Permanent link")
 
