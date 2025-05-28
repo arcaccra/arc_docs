@@ -22,7 +22,7 @@ We started by listening: talking to households, collectors, recyclers, and local
 
 ### 🟡 Phase 1: Understanding the Landscape[¶](https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/Home/#phase-1-understanding-the-landscape "Permanent link")
 
-- Visited 15+ communities
+- Visited one community
 - Observed informal waste collection
 - Interviewed 20 recyclers
 
