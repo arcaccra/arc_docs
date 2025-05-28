@@ -2,7 +2,7 @@
 
 |||
 |---|---|
-|**Kwame** – Operations Lead|**Efua** – Tech & UX|
+|**Abdul Rashid Boateng** – Scribe|**Abdul Rahman Salifu** – Tech & UX|
 
 > “We’re building this for our communities, not just investors.”
 
