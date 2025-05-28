@@ -52,5 +52,10 @@ We realized we needed **a simple, trackable system** with **instant incentives**
 Sort → Collect → Verify → Pay
 ```
 
-
-```
+- Households sort and log waste in the app
+    
+- Collectors confirm and weigh pickup
+    
+- Verified data triggers instant mobile rewards
+    
+- Recyclers receive sorted plastic on demand
