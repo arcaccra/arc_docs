@@ -37,43 +37,6 @@
     ]
   },
   {
-    "user": "Youngrash",
-    "history": [
-      {
-        "month": "2024-10",
-        "commits": 0
-      },
-      {
-        "month": "2024-11",
-        "commits": 0
-      },
-      {
-        "month": "2024-12",
-        "commits": 0
-      },
-      {
-        "month": "2025-01",
-        "commits": 0
-      },
-      {
-        "month": "2025-02",
-        "commits": 0
-      },
-      {
-        "month": "2025-03",
-        "commits": 0
-      },
-      {
-        "month": "2025-04",
-        "commits": 0
-      },
-      {
-        "month": "2025-05",
-        "commits": 19
-      }
-    ]
-  },
-  {
     "user": "regeneshik",
     "history": [
       {
@@ -107,6 +70,43 @@
       {
         "month": "2025-05",
         "commits": 0
+      }
+    ]
+  },
+  {
+    "user": "Youngrash",
+    "history": [
+      {
+        "month": "2024-10",
+        "commits": 0
+      },
+      {
+        "month": "2024-11",
+        "commits": 0
+      },
+      {
+        "month": "2024-12",
+        "commits": 0
+      },
+      {
+        "month": "2025-01",
+        "commits": 0
+      },
+      {
+        "month": "2025-02",
+        "commits": 0
+      },
+      {
+        "month": "2025-03",
+        "commits": 0
+      },
+      {
+        "month": "2025-04",
+        "commits": 0
+      },
+      {
+        "month": "2025-05",
+        "commits": 20
       }
     ]
   },
