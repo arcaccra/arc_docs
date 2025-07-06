@@ -14,11 +14,11 @@ Plastic waste is everywhere in Ghana — choking drains, polluting communities, 
 
 ---
 
-##  Our Journey: From Frustration to Innovation[¶](https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/Home/#our-journey-from-frustration-to-innovation "Permanent link")
+##  Our Journey: From Frustration to Innovation
 
 We started by listening: talking to households, collectors, recyclers, and local authorities. What we learned shaped every step.
 
-###  Phase 1: Understanding the Landscape[¶](https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/Home/#phase-1-understanding-the-landscape "Permanent link")
+###  Phase 1: Understanding the Landscape
 
 - Visited one community
 - Observed informal waste collection

@@ -1,4 +1,3 @@
-**  
 
 ## Bins to Cash: A Team’s Action Learning Story
 
