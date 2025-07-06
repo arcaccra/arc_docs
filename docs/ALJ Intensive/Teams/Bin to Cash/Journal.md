@@ -63,7 +63,7 @@ The final days were a blend of testing, polishing, and rehearsing our pitch. We 
 
 ### Day 12: Presentation
 
-Pitch day arrived. With cameras rolling and feedback flowing, we shared the heart of our journey not just as a bot, but a collaborative attempt to turn waste into opportunity, learning into action.
+Pitch day arrived. With cameras rolling and feedback flowing, we shared the heart of our journey not just as a story, but a collaborative attempt to turn waste into opportunity, learning into action.
 
   
 
