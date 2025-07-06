@@ -1,5 +1,3 @@
-## 🤝 Get Involved
-
 We’re looking for:
 
 - ♻️ Recycling companies
