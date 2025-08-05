@@ -101,27 +101,27 @@ Strengthened Partnerships: Formalized collaboration agreements with Wada as the 
 
 # 5. The Evaluation Process
 
-Preparation & Design: 
+### Preparation & Design
 
 Value themes and their weights (Social Relationality, Learning, Creativity, Productivity) were co-created by participants during enrollment calls and a live “Valuing Workshop.”
 Extensive theoretical grounding in systemic thinking and participatory design set evaluation priorities before hands-on activity.
 
-Multi-Modal Tracking:
+### Multi-Modal Tracking
 
 Telegram Timelining: Daily, participants logged reflections, stories, and verified value-contribution entries using carefully designed bot schemas—for example, peer-verified acts of support (Social Relationality), milestone logs (Productivity), idea sparks (Creativity), and explicit before/after learning (Learning).
 
-Structured Forms:
+### Structured Forms
 
 Self & Peer Evaluation: Daily forms (built with Tally) tracked interpersonal relations, learning/growth, creativity, and contribution—requiring both numeric ratings and example-backed narrative for both self and peers.
 Facilitation Feedback: Anonymous forms before and after the intensive captured feedback on leadership, group process, and facilitation methods.
 ALJ “Pulse” Forms: Sense-checking at key intervals measured changes in motivation, group energy, and expectations.
 
-Multi-Perspectival Data Synthesis:
+### Multi-Perspectival Data Synthesis
 
 Data from all forms, timelining entries, peer and facilitator feedback, and team outputs were aggregated into a graph database (Neo4j). GraphRAG enabled deep, longitudinal querying—cross-referencing peer scores with timeline entries, surfacing patterns in social support, creative bursts, and quiet productivity alike.
 Statistical analysis (via Jupyter Notebooks) visualized distributions, highlighted score trajectories, and empowered fair, evidence-driven decisions.
 
-Rigorous Ranking:
+### Rigorous Ranking
 
 For individuals: Composite scores incorporated self/peer ratings, qualitative “power up” mentions, and verified timeline value contributions.
 For teams: Weighted scores, determined by the co-created schema, synthesized all data streams across Regenerative Growth, Team Potential, and Business Viability.
