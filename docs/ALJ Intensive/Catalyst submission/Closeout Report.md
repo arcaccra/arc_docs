@@ -60,7 +60,7 @@ Attendees were registered in Luma, across several enrolment calls, and "Meet & G
 
 ### **4. Event Execution and Adaptive Process Facilitation**
 
-The intensive was full of workshops. The facilitator team were facilitating all day, every day, throughout the weekend and beyond. By the end of day 4 we had managed to cultivate enough self-initiative and collective alignment for 3 teams to organically form. The extent to which these were indeed organic processes was evidenced by how the teams sought internal coherence for the remainder of the project, navigating inevitable frictions as they tried out self-governance practices, and stretching themselves to deliver a result they were proud of, as a team, in a timely manner. By the end of the intensive, each team had begun their development into an effective organisation. Two and a half weeks was more than enough for an in-person, all-day-every-day intensive. Fortunately this was agreed upon prior to the start of the in-person activities. Of the participants that registered and/ or attended online enrolment calls, the engagement during the in-person period was moderate. However, another learning was that it is a lot to ask of people to make themselves available full-time for two weeks. In some cases, participants had taken holiday to participate, although this was considered as an exceptionally successful level of engagement. In terms of adaptive changes, there was continuous evaluation, both formally via whole-team syncs on the balcony outside the learning space at the end of the day, as well as informally in any other moment, such as the taxi ride home, the kitchen, and in between workshops crashed-out on the beanbag. Fortunately, we had set up a voice-based reflection practice, which received over 400 reflections during the 3 week period around the intensive, which is made available online at https://evaluate.prisma.events. One improvement for next time would be to accept multiple forms of media into this system, as collating all documents of workshops and presentations after successfully encouraging decentralisation has been like trying to herd cats.
+The intensive was full of workshops. The facilitator team were facilitating all day, every day, throughout the weekend and beyond. By the end of day 4 we had managed to cultivate enough self-initiative and collective alignment for 3 teams to organically form. The extent to which these were indeed organic processes was evidenced by how the teams sought internal coherence for the remainder of the project, navigating inevitable frictions as they tried out self-governance practices, and stretching themselves to deliver a result they were proud of, as a team, in a timely manner. By the end of the intensive, each team had begun their development into an effective organisation. Two and a half weeks was more than enough for an in-person, all-day-every-day intensive. Fortunately this was agreed upon prior to the start of the in-person activities. Of the participants that registered and/ or attended online enrolment calls, the engagement during the in-person period was moderate. However, another learning was that it is a lot to ask of people to make themselves available full-time for two weeks. In some cases, participants had taken holiday to participate, although this was considered as an exceptionally successful level of engagement. In terms of adaptive changes, there was continuous evaluation, both formally via whole-team syncs on the balcony outside the learning space at the end of the day, as well as informally in any other moment, such as the taxi ride home, the kitchen, and in between workshops crashed-out on the beanbag. Fortunately, we had set up a voice-based reflection practice, which received over 400 reflections during the 3 week period around the intensive, which is made available online [here](https://evaluate.prisma.events). One improvement for next time would be to accept multiple forms of media into this system, as collating all documents of workshops and presentations after successfully encouraging decentralisation has been like trying to herd cats.
 
 | KPI                                          | Metric                                                | Result                                                |
 | -------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -100,94 +100,88 @@ Strengthened Partnerships: Formalized collaboration agreements with Wada as the 
 **Knowledge Assets:** Produced one detailed timeline, queryable with GraphRAG.
 
 # 5. The Evaluation Process
+
 Preparation & Design: 
+
 Value themes and their weights (Social Relationality, Learning, Creativity, Productivity) were co-created by participants during enrollment calls and a live “Valuing Workshop.”
 Extensive theoretical grounding in systemic thinking and participatory design set evaluation priorities before hands-on activity.
+
 Multi-Modal Tracking:
+
 Telegram Timelining: Daily, participants logged reflections, stories, and verified value-contribution entries using carefully designed bot schemas—for example, peer-verified acts of support (Social Relationality), milestone logs (Productivity), idea sparks (Creativity), and explicit before/after learning (Learning).
+
 Structured Forms:
+
 Self & Peer Evaluation: Daily forms (built with Tally) tracked interpersonal relations, learning/growth, creativity, and contribution—requiring both numeric ratings and example-backed narrative for both self and peers.
 Facilitation Feedback: Anonymous forms before and after the intensive captured feedback on leadership, group process, and facilitation methods.
 ALJ “Pulse” Forms: Sense-checking at key intervals measured changes in motivation, group energy, and expectations.
+
 Multi-Perspectival Data Synthesis:
+
 Data from all forms, timelining entries, peer and facilitator feedback, and team outputs were aggregated into a graph database (Neo4j). GraphRAG enabled deep, longitudinal querying—cross-referencing peer scores with timeline entries, surfacing patterns in social support, creative bursts, and quiet productivity alike.
 Statistical analysis (via Jupyter Notebooks) visualized distributions, highlighted score trajectories, and empowered fair, evidence-driven decisions.
+
 Rigorous Ranking:
+
 For individuals: Composite scores incorporated self/peer ratings, qualitative “power up” mentions, and verified timeline value contributions.
 For teams: Weighted scores, determined by the co-created schema, synthesized all data streams across Regenerative Growth, Team Potential, and Business Viability.
 Visualizations (bar charts, heatmaps, radar plots) documented the entire process; rankings directly determined transparent prize distribution.
 
 
-6. Key Learnings
-Successful Elements:
+# 6. Key Learnings
 
+### Successful Elements:
 
-In-Person Intensive Format: The two-week in-person immersive format fostered accelerated trust, communication, and iterative development cycles.
+**In-Person Intensive Format:** The two-week in-person immersive format fostered accelerated trust, communication, and iterative development cycles.
 
+**Emergent Prototyping:** Applying emergent-learning principles helped participants rapidly co-identify and refine high-priority use cases, enhancing solution relevance.
 
-Emergent Prototyping: Applying emergent-learning principles helped participants rapidly co-identify and refine high-priority use cases, enhancing solution relevance.
+**Systemic Framing:** Addressing community problems from a systems perspective led to solutions with deeper, regenerative logic.
 
+**Self-Organizing Leadership:** Trusting in decentralized group process mobilized collective intelligence and rapid iteration.
 
-Systemic Framing: Addressing community problems from a systems perspective led to solutions with deeper, regenerative logic.
+**Field Learning:** The excursion to Dream Village and street-level customer discovery proved that direct community validation is vital to refining solutions and ensuring relevance.
 
-
-Self-Organizing Leadership: Trusting in decentralized group process mobilized collective intelligence and rapid iteration.
-
-
-Field Learning: The excursion to Dream Village and street-level customer discovery proved that direct community validation is vital to refining solutions and ensuring relevance.
-
-
-Improvement Opportunities:
-
+### Improvement Opportunities:
 
 Introducing a structured remote orientation phase two weeks prior could decrease the initial onboarding friction and maximize hackathon time.
 
-
 Allocating dedicated facilitators for non-technical roles (e.g., project management, UX research) would support participants less familiar with agile hackathon environments.
 
-
-Unexpected Insights:
-
+### Unexpected Insights:
 
 Strong demand emerged for blockchain-based supply-chain traceability solutions among local agricultural cooperatives, indicating a strategic opportunity for a specialized follow-on cohort.
 Narrative depth in voice notes often flagged deeper “systemic” value than numeric ratings captured.
 
+# 7. Next Steps for the Solutions Developed
 
-7. Next Steps for the Solutions Developed
-Short-Term Actions:
-
+### Short-Term Actions:
 
 Finalize the case-study package and push to GitHub, ARC website, and Catalyst repositories.
 
-
 Schedule and promote a virtual demo day with partners and potential funders to secure pilot commitments.
 
-
-Medium- to Long-Term Plans:
-
+### Medium- to Long-Term Plans:
 
 Expand the Action-Learning Journey model to additional Ghanaian hubs (Kumasi, Tamale), leveraging refined facilitation frameworks.
 
-
 Pursue follow-on Catalyst funding, corporate sponsorships, or grant opportunities to support a second cohort and deepen community engagement.
 
+# 8. Final Thoughts and Comments
 
-8. Final Thoughts and Comments
 The Accra ALJ broke new ground in participatory, systems-driven innovation for Cardano adoption in Accra, Ghana and potentially beyond to other parts of West Africa. Deep preparation, theory grounding, and real-time evaluation set a new standard for value-based programming, and the collaborative process—grounded in lived experience, multidimensional data, and transparent decision-making—yielded results that endure beyond the project’s close. This work demonstrates that when facilitation bridges context, participant voice, and rigorous evaluation, the outcome is not just prototypes—but an ecosystem capable of self-renewal, growth, and continued impact.
-9. Links to Resources
-ARC Website: https://www.arcaccra.com – hub information, upcoming events, and community contacts.
+
+# 9. Links to Resources
+
+ARC Website: [https://www.arcaccra.com](https://www.arcaccra.com) – hub information, upcoming events, and community contacts.
 
 
-Prisma ALJ Page: https://docs.prisma.events/patterns/action-learning%20journeys  – program overview and emergent-learning methodology.
+Prisma Docs: [https://docs.prisma.events/](https://docs.prisma.events/)  – program overview and emergent-learning methodology.
 
 
-IdeaScale Proposal: https://cardano.ideascale.com/c/idea/1300190 – original project submission and community feedback.
+IdeaScale Proposal: [https://cardano.ideascale.com/c/idea/1300190](https://cardano.ideascale.com/c/idea/1300190) – original project submission and community feedback.
 
+10. Close-out Video Link 
 
-10. Close-out Video Link
-YouTube Demo & Recap (3:45 min) – a concise, engaging overview video featuring the journey’s key objectives, milestone highlights, dApp demo clips, participant success stories, facilitator reflections, and calls to action for future cohorts.
-
-
-
-
+[[Closeout Video]]
 
