@@ -29,10 +29,10 @@ We considered the on-the-ground "hub team" (Accra Resource Centre) as the source
 
 | KPI                                          | Metric                                                | Result                                                |
 | -------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Number of lead impulses confirmed            | ≥ 1 and ≤ 3 with signed letters/agreements            | 
-| Target user base defined                     | At least 25 potential users identified and documented | 
-| Developer competency requirements documented | At least 3 core competencies listed                   | 
-| Local vs. external developer balance         | % of competencies matched with local talent           | 
+| Number of lead impulses confirmed            | ≥ 1 and ≤ 3 with signed letters/agreements            | 2                                                     |
+| Target user base defined                     | At least 25 potential users identified and documented | True                                                  |
+| Developer competency requirements documented | At least 3 core competencies listed                   | True                                                  |
+| Local vs. external developer balance         | % of competencies matched with local talent           | 100%                                                  |
 
 ---
 
