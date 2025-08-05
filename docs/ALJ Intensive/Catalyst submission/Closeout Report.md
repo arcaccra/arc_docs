@@ -38,36 +38,40 @@ We considered the on-the-ground "hub team" (Accra Resource Centre) as the source
 
 ### **2. Community and External Engagement Preparation**
 
+Indeed we engaged three external stakeholders from personal networks of the core organising team, choosing to play it safe as opposed to making it more high-stakes and reaching out to organisations with a more investment-oriented objective. In the end, after the first onboarding call with participants on the ground, we also extended an "unofficial" invite to some more high-stakes contacts. The roadmap was generated internally and used to coordinate the outreach between the hub team, wada and prisma. The workshop topics were set, derived from the event outcome aims and led by the Lead Learning Designer from Prisma, relying heavily on dialogue with all partners involved. These were iterated throughout the enrolment process and influenced the emergent agenda during the intensive. Roles were clarified during a kind of "internal organisational development" phase that lasted 3-4 weeks and involved all core partners. 
 
-
-| KPI                                            | Metric                                               |
-| ---------------------------------------------- | ---------------------------------------------------- |
-| External stakeholders identified and contacted | ≥ 3, with documented engagement plans                |
-| Engagement roadmap finalized                   | 100% of outreach, onboarding, co-design steps listed |
-| Workshop topics defined in co-design plan      | ≥ 2 topics identified                                |
-| Participant roles assigned in co-design        | All roles clearly defined and documented             |
+| KPI                                            | Metric                                               | Result                                                |
+| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
+| External stakeholders identified and contacted | ≥ 3, with documented engagement plans                | True                                                  |
+| Engagement roadmap finalized                   | 100% of outreach, onboarding, co-design steps listed | True                                                  |
+| Workshop topics defined in co-design plan      | ≥ 2 topics identified                                | True                                                  |
+| Participant roles assigned in co-design        | All roles clearly defined and documented             | True                                                  |
 
 ---
 
 ### **3. Event Capacity Building and Participant Onboarding**
 
-| KPI                                        | Metric                                                    |
-| ------------------------------------------ | --------------------------------------------------------- |
-| Total confirmed participants               | ≥ 30 registered attendees                                 |
-| Participation diversity                    | Representation across community, developers, stakeholders |
-| Self-discovery workshop sessions conducted | ≥ 1 session, with documented participant feedback         |
-| Collaborative environment setup and usage  | Platform live, ≥ 15 active members before event           |
+Attendees were registered in Luma, across several enrolment calls, and "Meet & Greets" in which we informally interviewed applicants. In the end, we accepted everyone into the program. The representation of participants was fairly narrow, attracting mostly beginner-intermediate developers and blockchain enthusiasts, aged 20-30 years. There was a fiarly limited proportion of women to men, however, there was a huge diversity of personalities and approaches to project development, which became apparent by engaging the agency of every participant during the intensive. Everyone had a chance to bring themselves into the process and they did so with sincerity. The collaborative environment was setup prior to the event, however, onboarding and contribution only really happened once the in-person activities had begun.
+
+| KPI                                        | Metric                                                    | Result                                                |
+| ------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------- |
+| Total confirmed participants               | ≥ 30 registered attendees                                 | True                                                  |
+| Participation diversity                    | Representation across community, developers, stakeholders | False                                                 |
+| Self-discovery workshop sessions conducted | ≥ 1 session, with documented participant feedback         | True                                                  |
+| Collaborative environment setup and usage  | Platform live, ≥ 15 active members before event           | False                                                 |
 
 ---
 
 ### **4. Event Execution and Adaptive Process Facilitation**
 
-| KPI                                          | Metric                                                |
-| -------------------------------------------- | ----------------------------------------------------- |
-| Co-design workshops held                     | Weekly for 4 weeks; ≥ 4 total sessions                |
-| Weekly participation in feedback sessions    | ≥ 75% of participants engage weekly                   |
-| Adaptive changes made based on evaluations   | ≥ 1 documented change per week, if needed             |
-| Workshop documentation and reports submitted | 100% of sessions reported with presentation materials |
+The intensive was full of workshops. The facilitator team were facilitating all day, every day, throughout the weekend and beyond. By the end of day 4 we had managed to cultivate enough self-initiative and collective alignment for 3 teams to organically form. The extent to which these were indeed organic processes was evidenced by how the teams sought internal coherence for the remainder of the project, navigating inevitable frictions as they tried out self-governance practices, and stretching themselves to deliver a result they were proud of, as a team, in a timely manner. By the end of the intensive, each team had begun their development into an effective organisation. Two and a half weeks was more than enough for an in-person, all-day-every-day intensive. Fortunately this was agreed upon prior to the start of the in-person activities. Of the participants that registered and/ or attended online enrolment calls, the engagement during the in-person period was moderate. However, another learning was that it is a lot to ask of people to make themselves available full-time for two weeks. In some cases, participants had taken holiday to participate, although this was considered as an exceptionally successful level of engagement. In terms of adaptive changes, there was continuous evaluation, both formally via whole-team syncs on the balcony outside the learning space at the end of the day, as well as informally in any other moment, such as the taxi ride home, the kitchen, and in between workshops crashed-out on the beanbag. Fortunately, we had set up a voice-based reflection practice, which received over 400 reflections during the 3 week period around the intensive, which is made available online at https://evaluate.prisma.events. One improvement for next time would be to accept multiple forms of media into this system, as collating all documents of workshops and presentations after-the-fact has been like herding cats.
+
+| KPI                                          | Metric                                                | Result                                                |
+| -------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| Co-design workshops held                     | Weekly for 4 weeks; ≥ 4 total sessions                | True (after duration update)                          |
+| Weekly participation in feedback sessions    | ≥ 75% of participants engage weekly                   | False (moderate)                                      |
+| Adaptive changes made based on evaluations   | ≥ 1 documented change per week, if needed             | True                                                  |
+| Workshop documentation and reports submitted | 100% of sessions reported with presentation materials | True (eventually)                                     |
 
 ---
 
