@@ -1,3 +1,5 @@
+# Closeout Report
+
 # 1. Project Identification
 
 Project Name and URL on IdeaScale:
@@ -34,8 +36,6 @@ We considered the on-the-ground "hub team" (Accra Resource Centre) as the source
 | Developer competency requirements documented | At least 3 core competencies listed                   | True                                                  |
 | Local vs. external developer balance         | % of competencies matched with local talent           | 100%                                                  |
 
----
-
 ### **2. Community and External Engagement Preparation**
 
 Indeed we engaged three external stakeholders from personal networks of the core organising team, choosing to play it safe as opposed to making it more high-stakes and reaching out to organisations with a more investment-oriented objective. In the end, after the first onboarding call with participants on the ground, we also extended an "unofficial" invite to some more high-stakes contacts. The roadmap was generated internally and used to coordinate the outreach between the hub team, wada and prisma. The workshop topics were set, derived from the event outcome aims and led by the Lead Learning Designer from Prisma, relying heavily on dialogue with all partners involved. These were iterated throughout the enrolment process and influenced the emergent agenda during the intensive. Roles were clarified during a kind of "internal organisational development" phase that lasted 3-4 weeks and involved all core partners. 
@@ -46,8 +46,6 @@ Indeed we engaged three external stakeholders from personal networks of the core
 | Engagement roadmap finalized                   | 100% of outreach, onboarding, co-design steps listed | True                                                  |
 | Workshop topics defined in co-design plan      | ≥ 2 topics identified                                | True                                                  |
 | Participant roles assigned in co-design        | All roles clearly defined and documented             | True                                                  |
-
----
 
 ### **3. Event Capacity Building and Participant Onboarding**
 
@@ -60,74 +58,48 @@ Attendees were registered in Luma, across several enrolment calls, and "Meet & G
 | Self-discovery workshop sessions conducted | ≥ 1 session, with documented participant feedback         | True                                                  |
 | Collaborative environment setup and usage  | Platform live, ≥ 15 active members before event           | False                                                 |
 
----
-
 ### **4. Event Execution and Adaptive Process Facilitation**
 
-The intensive was full of workshops. The facilitator team were facilitating all day, every day, throughout the weekend and beyond. By the end of day 4 we had managed to cultivate enough self-initiative and collective alignment for 3 teams to organically form. The extent to which these were indeed organic processes was evidenced by how the teams sought internal coherence for the remainder of the project, navigating inevitable frictions as they tried out self-governance practices, and stretching themselves to deliver a result they were proud of, as a team, in a timely manner. By the end of the intensive, each team had begun their development into an effective organisation. Two and a half weeks was more than enough for an in-person, all-day-every-day intensive. Fortunately this was agreed upon prior to the start of the in-person activities. Of the participants that registered and/ or attended online enrolment calls, the engagement during the in-person period was moderate. However, another learning was that it is a lot to ask of people to make themselves available full-time for two weeks. In some cases, participants had taken holiday to participate, although this was considered as an exceptionally successful level of engagement. In terms of adaptive changes, there was continuous evaluation, both formally via whole-team syncs on the balcony outside the learning space at the end of the day, as well as informally in any other moment, such as the taxi ride home, the kitchen, and in between workshops crashed-out on the beanbag. Fortunately, we had set up a voice-based reflection practice, which received over 400 reflections during the 3 week period around the intensive, which is made available online at https://evaluate.prisma.events. One improvement for next time would be to accept multiple forms of media into this system, as collating all documents of workshops and presentations after-the-fact has been like herding cats.
+The intensive was full of workshops. The facilitator team were facilitating all day, every day, throughout the weekend and beyond. By the end of day 4 we had managed to cultivate enough self-initiative and collective alignment for 3 teams to organically form. The extent to which these were indeed organic processes was evidenced by how the teams sought internal coherence for the remainder of the project, navigating inevitable frictions as they tried out self-governance practices, and stretching themselves to deliver a result they were proud of, as a team, in a timely manner. By the end of the intensive, each team had begun their development into an effective organisation. Two and a half weeks was more than enough for an in-person, all-day-every-day intensive. Fortunately this was agreed upon prior to the start of the in-person activities. Of the participants that registered and/ or attended online enrolment calls, the engagement during the in-person period was moderate. However, another learning was that it is a lot to ask of people to make themselves available full-time for two weeks. In some cases, participants had taken holiday to participate, although this was considered as an exceptionally successful level of engagement. In terms of adaptive changes, there was continuous evaluation, both formally via whole-team syncs on the balcony outside the learning space at the end of the day, as well as informally in any other moment, such as the taxi ride home, the kitchen, and in between workshops crashed-out on the beanbag. Fortunately, we had set up a voice-based reflection practice, which received over 400 reflections during the 3 week period around the intensive, which is made available online at https://evaluate.prisma.events. One improvement for next time would be to accept multiple forms of media into this system, as collating all documents of workshops and presentations after successfully encouraging decentralisation has been like trying to herd cats.
 
 | KPI                                          | Metric                                                | Result                                                |
 | -------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | Co-design workshops held                     | Weekly for 4 weeks; ≥ 4 total sessions                | True (after duration update)                          |
-| Weekly participation in feedback sessions    | ≥ 75% of participants engage weekly                   | False (moderate)                                      |
+| Weekly participation in feedback sessions    | ≥ 75% of participants engage weekly                   | Partial/ False                                        |
 | Adaptive changes made based on evaluations   | ≥ 1 documented change per week, if needed             | True                                                  |
 | Workshop documentation and reports submitted | 100% of sessions reported with presentation materials | True (eventually)                                     |
 
----
+### **Cross-Phase / Strategic KPIs**
 
-### **5. Event Outcome Analysis and Final Reporting**
+For us, producing engaging accounts of the learning experience is very important. We haven't seen as much engagement in our material as we would have liked to and we'll address that going forwards by creating a centralised/ integrative page for a given event, sign-posting to various other perspectives/ apps. The local ecosystem engagement, in all honesty, was dire. There could have been much more action made by the local teams who were eager, but sometimes could have benefited from greater focus. The budgeting is considered a hindrance in this regard, leaving too much room for people to start thinking in terms of "what's needed to get this done?" instead of "what would be needed for the best possible future imaginable for my community?" For example, the hiring of an external videographer became a strong point of friction. Someone coming in to get the job done, with minimal intention to engage with the purpose of the process as a whole, in a role with a very qualitative output - is a missed opportunity. Contrasting that with the whole premise of self-organising and the abundance of talent present in Accra, it's a clear learning for next time to activate that role more purposefully next time around. The Cardano platform awareness was evident. With a very strong onboarding workshop that perfectly equipped participants with the essential knowledge needed to feel confident in their endeavours, almost all participants were actively thinking in terms of genuinely worthwhile real-world use-cases of Cardano. APIs were made available to help bridge the gap for the devs which were still onboarding to writing code, let alone smart contracts. Given the immense will generated for their self-initiated projects (which was a product of intention program design, not a coincidence), where they began prototyping with Cardano toolkits, it's a high likelihood that at least the first stage of their developer journeys will be with/ through the Cardano ecosystem. Feedback forms were used which recorded several reflections on their adoption of Cardano functionality in the development of their prototypes.
 
-| KPI                                        | Metric                                                       |
-| ------------------------------------------ | ------------------------------------------------------------ |
-| Final outcome report completed             | 1 report with sections on learnings and next steps           |
-| Product roadmap validated by lead impulses | Roadmap completed and confirmed                              |
-| Final project report published             | Report made publicly accessible with feedback data           |
-| Participant feedback coverage              | Summaries and interviews included from ≥ 75% of participants |
-
----
-
-### **Bonus KPIs (Cross-Phase / Strategic)**
-
-| KPI                              | Metric                                                                               |
-| -------------------------------- | ------------------------------------------------------------------------------------ |
-| Stakeholder retention rate       | % of initial stakeholders engaged through final report                               |
-| Local ecosystem engagement       | Number of local actors (businesses, devs, leaders) involved                          |
-| Cardano platform awareness       | % of participants who demonstrate understanding post-event (via surveys or feedback) |
-| Readiness for next project phase | % of roadmap milestones scoped and resourced                                         |
-
----
-
-Would you like these KPIs exported into a table format (Excel, CSV, etc.) or turned into a KPI dashboard layout for project tracking?
+| KPI                              | Metric                                                                               | Results           |
+| -------------------------------- | ------------------------------------------------------------------------------------ | ----------------- |
+| Stakeholder retention rate       | % of initial stakeholders engaged through final report                               | Low               |
+| Local ecosystem engagement       | Number of local actors (businesses, devs, leaders) involved                          | Low               |
+| Cardano platform awareness       | % of participants who demonstrate understanding post-event (via surveys or feedback) | High              |
 
 
-5. Key Achievements
+# 4. Key Achievements
 Strengthened Partnerships: Formalized collaboration agreements with Wada as the network partner, Dream Village as the techno-village partner, and ARC as the local hub, establishing governance structures and resource commitments.
 
+**Community Growth:** Successfully onboarded 22 new Cardano developers, forming 3 multidisciplinary teams that delivered working prototypes, with plans for ongoing mentorship and community meetups.
 
-Community Growth: Successfully onboarded 22 new Cardano developers, forming 3 multidisciplinary teams that delivered working prototypes, with plans for ongoing mentorship and community meetups.
+**Deliverable Impact (dApps developed):**
 
+1. **Bin-to-cash:** a Cardano blockchain-based incentivised waste disposal and recycling pipeline built on Telegram bots - creating a win-win-win model for house-holds, waste-collectors and recycling companies..
 
-Deliverable Impact (dApps developed):
+2. **Carpool:** a decentralized carpooling service leveraging Cardano blockchain for seamless peer-to-peer transactions to help alleviate traffic congestion in Accra - with a focus on collating employee pick ups and drop offs.
 
+3. **Bars-on-Bars:** an AA-like support platform that integrates messaging, behavioral incentives, and structured mentorship programs to combat addiction in local communities - especially in schools and universities.
 
-Bin-to-cash: a Cardano blockchain-based incentivised waste disposal and recycling pipeline built on Telegram bots - creating a win-win-win model for house-holds, waste-collectors and recycling companies..
+**Prototype Delivery & Pitch:** All three teams developed fully functional prototypes during the intensive phase and delivered polished pitches one week following completion of the in-person hackathon.
 
+**Field Visits & Real-World Models:** Participants conducted a site visit to Dream Village in Dambai, an established permaculture eco-village designed around community-driven sustainable solutions. Inspired by Dream Village’s participatory design and local resource optimization, the cohort examined how eco-village principles—such as decentralized energy, cooperative governance, and circular waste management—could inform blockchain-based community models back in Accra.
 
-Carpool: a decentralized carpooling service leveraging Cardano blockchain for seamless peer-to-peer transactions to help alleviate traffic congestion in Accra - with a focus on collating employee pick ups and drop offs.
+**Knowledge Assets:** Produced one detailed timeline, queryable with GraphRAG.
 
-
-Bars-on-Bars: an AA-like support platform that integrates messaging, behavioral incentives, and structured mentorship programs to combat addiction in local communities - especially in schools and universities.
-
-
-Prototype Delivery & Pitch: All three teams developed fully functional prototypes during the intensive phase and delivered polished pitches one week following completion of the in-person hackathon.
-
-
-Field Visits & Real-World Models: Participants conducted a site visit to Dream Village in Dambai, an established permaculture eco-village designed around community-driven sustainable solutions. Inspired by Dream Village’s participatory design and local resource optimization, the cohort examined how eco-village principles—such as decentralized energy, cooperative governance, and circular waste management—could inform blockchain-based community models back in Accra.
-
-
-Knowledge Assets: Produced one detailed multimedia case study and a suite of facilitation guides, templates, and best-practice documents for replication in other Ghanaian cities.
-
-6. The Evaluation Process
+# 5. The Evaluation Process
 Preparation & Design: 
 Value themes and their weights (Social Relationality, Learning, Creativity, Productivity) were co-created by participants during enrollment calls and a live “Valuing Workshop.”
 Extensive theoretical grounding in systemic thinking and participatory design set evaluation priorities before hands-on activity.
@@ -146,7 +118,7 @@ For teams: Weighted scores, determined by the co-created schema, synthesized all
 Visualizations (bar charts, heatmaps, radar plots) documented the entire process; rankings directly determined transparent prize distribution.
 
 
-7. Key Learnings
+6. Key Learnings
 Successful Elements:
 
 
