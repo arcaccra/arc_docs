@@ -153,4 +153,3 @@ Based on these results and reviewing timelining entries and team feedback, sever
 ## **E. Funder-Ready Summary Statement**
 
 **Session adaptations were directly driven by first-week participant evaluations and timelined feedback. By the start of Week 2, we doubled the use of small group breakouts and reflection circles, added real-time feedback and “emergent learning” slots in every daily agenda, and shifted away from traditional lectures toward participatory and peer-delivered formats. Root-cause analysis, specifically the “five whys,” became a core group activity. This tight feedback-to-adaptation cycle demonstrably increased participant engagement, learning, and satisfaction as evidenced in both subsequent forms and timetable entries.**
-
