@@ -1,29 +1,25 @@
-These were the top social media posts made about the event, by Wada.
+**Top social media posts by Wada:**
 
-https://x.com/wada_org/status/1925901067167969516 
+- [https://x.com/wada_org/status/1925901067167969516](https://x.com/wada_org/status/1925901067167969516)  
+- [https://x.com/wada_org/status/1924154406527738282](https://x.com/wada_org/status/1924154406527738282)  
+- [https://x.com/wada_org/status/1924154412982849997](https://x.com/wada_org/status/1924154412982849997)  
 
-https://x.com/wada_org/status/1924154406527738282
+**More posts by Accra Resource Centre:**
 
-https://x.com/wada_org/status/1924154412982849997
+- **ALJ Program Announcement**  
+  [https://x.com/arcaccra/status/1908173864288276528](https://x.com/arcaccra/status/1908173864288276528)
 
-More posts by Accra Resource Centre:
+- **Program Referral**  
+  [https://x.com/dev_savvi/status/1909217466795905482](https://x.com/dev_savvi/status/1909217466795905482)
 
-ALJ Program Announcement
-https://x.com/arcaccra/status/1908173864288276528
+- **ALJ Program Announcement and Publicity**  
+  [https://x.com/dev_savvi/status/1910819629921902](https://x.com/dev_savvi/status/1910819629921902)
 
-Program Referral
-https://x.com/dev_savvi/status/1909217466795905482
+- **Program Launch – Kick Off the ALJ Program**  
+  [https://x.com/wada_org/status/1924154406527738282](https://x.com/wada_org/status/1924154406527738282)
 
-ALJ Program Announcement and Publicity
-https://x.com/dev_savvi/status/1910819629921902
+- **Day 5 Recap – Midpoint Milestone & Dream Village Spotlight**  
+  [https://x.com/wada_org/status/1925901067167969516](https://x.com/wada_org/status/1925901067167969516)
 
-Program Launch – Kick Off the ALJ Program
-https://x.com/wada_org/status/1924154406527738282
-
- Day 5 Recap – Midpoint Milestone & Dream Village Spotlight
-https://x.com/wada_org/status/1925901067167969516 
-
-
-ALJ Cohort Visits Dream Village
-https://x.com/Kwakuclement/status/1927294497647473127
-
+- **ALJ Cohort Visits Dream Village**  
+  [https://x.com/Kwakuclement/status/1927294497647473127](https://x.com/Kwakuclement/status/1927294497647473127)
