@@ -181,7 +181,7 @@ Prisma Docs: [https://docs.prisma.events/](https://docs.prisma.events/)  – pro
 
 IdeaScale Proposal: [https://cardano.ideascale.com/c/idea/1300190](https://cardano.ideascale.com/c/idea/1300190) – original project submission and community feedback.
 
-10. Close-out Video Link 
+# 10. Close-out Video Link 
 
 [[Closeout Video]]
 
