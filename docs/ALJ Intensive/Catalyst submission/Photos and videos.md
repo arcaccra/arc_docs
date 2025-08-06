@@ -1,0 +1,3 @@
+There are photos and videos embedded throughout this site, such as in the daily log (e.g. [[Day_1]]). 
+
+Most photos were saved to this drive location: [https://photos.google.com/share/AF1QipOXOOAyO1TujDtuBA97w_UlZSBHhMVF4DtwdoGsHQeLhk44g43MzZZXGWQlSi1vrw?key=b1dWZTdWNV8xVlNzNnJtSFU0TDY5UzRzLTFYYnlB](https://photos.google.com/share/AF1QipOXOOAyO1TujDtuBA97w_UlZSBHhMVF4DtwdoGsHQeLhk44g43MzZZXGWQlSi1vrw?key=b1dWZTdWNV8xVlNzNnJtSFU0TDY5UzRzLTFYYnlB)
