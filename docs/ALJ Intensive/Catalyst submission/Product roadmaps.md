@@ -8,6 +8,6 @@ Teams were polishing up their demos, as well as their pitches, in preparation. B
 
 In addition to these resources, the Bin to Cash team have written a comprehensive roadmap here: [[What's Next]]
 
-Here's the perspective given by Ez King, Programme Manager and "Lead Impulse" for Accra: https://youtu.be/MNP6RQ6NDII
+[Here's](https://youtu.be/MNP6RQ6NDII) the perspective given by Ez King, Programme Manager and "Lead Impulse" for Accra. This was his validation of the teams' work and recognition of how these projects fit into the bigger picture of Accra's technology development future.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/MNP6RQ6NDII?si=ADKUnkF0H83neG32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
