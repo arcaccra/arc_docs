@@ -65,9 +65,11 @@ The intensive was full of workshops. The facilitator team were facilitating all 
 | KPI                                          | Metric                                                | Result                                                |
 | -------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | Co-design workshops held                     | Weekly for 4 weeks; ≥ 4 total sessions                | True (after duration update)                          |
-| Weekly participation in feedback sessions    | ≥ 75% of participants engage weekly                   | Partial/ False                                        |
+| Weekly participation in feedback sessions    | ≥ 75% of participants engage weekly                   | True*                                        |
 | Adaptive changes made based on evaluations   | ≥ 1 documented change per week, if needed             | True                                                  |
 | Workshop documentation and reports submitted | 100% of sessions reported with presentation materials | True (eventually)                                     |
+
+> Note on the weekly participation in feedback: Of the 3 feedback forms used routinely throughout the intensive to gather feedback from the cohort as a whole, the 'Growth Form' is identified by our Evaluation Lead, Shik, as the most important. As is evidenced in [[Weekly Feedback Data & Participation Statistics]], this form gathered 92% and 100% participation for weeks 1 and 2 respectively. On this basis, we are considering this KPI a pass, although note the low participation on other forms as possible room for improvement for next time, nonetheless. Shik also noted the possible cause of low participation rates as being ambiguity around incentives. This is something we will double-down on going forwards. 
 
 ### **Cross-Phase / Strategic KPIs**
 

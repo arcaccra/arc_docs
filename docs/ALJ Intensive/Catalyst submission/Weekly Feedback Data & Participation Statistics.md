@@ -70,6 +70,9 @@ This form, administered at the end of week 1, was used to ask participants about
 * **Total valid respondents:** 11  
 * **Participation rate:** 52% of total cohort (11/20)
 
+> Note on Feedback Form Participation Rates: 
+> The growth evaluation form was the most critical measure of participation, and had high rates. For the other two, stronger incentivization mechanisms might have increased submissions.
+
 ## **4\. Team Participation Rates**
 
 | Team | Est. Team Size | Consistent Attendees | Growth Forms | Average Daily Participation Rate |
