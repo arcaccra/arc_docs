@@ -6,14 +6,21 @@
 
 **More posts by Accra Resource Centre:**
 
-- **ALJ Program Announcement**  
+- **ALJ Program Announcement**
   [https://x.com/arcaccra/status/1908173864288276528](https://x.com/arcaccra/status/1908173864288276528)
 
-- **Program Referral**  
+- **Program Referral**
   [https://x.com/dev_savvi/status/1909217466795905482](https://x.com/dev_savvi/status/1909217466795905482)
 
-- **Program Launch – Kick Off the ALJ Program**  
-  [https://x.com/wada_org/status/1924154406527738282](https://x.com/wada_org/status/1924154406527738282)
-
-- **ALJ Cohort Visits Dream Village**  
+- **ALJ Cohort Visits Dream Village**
   [https://x.com/Kwakuclement/status/1927294497647473127](https://x.com/Kwakuclement/status/1927294497647473127)
+
+**Posts by Prisma:**
+
+- [https://x.com/__prismaevents/status/1920251061320765932](https://x.com/__prismaevents/status/1920251061320765932)
+- [https://x.com/__prismaevents/status/1956091545557348524](https://x.com/__prismaevents/status/1956091545557348524)
+
+**Posts by Shik:**
+
+- [https://www.linkedin.com/posts/shik_funding-activity-7338422239697981440-QSyM](https://www.linkedin.com/posts/shik_funding-activity-7338422239697981440-QSyM)
+- [https://www.linkedin.com/posts/shik_hello-fellow-hustlers-should-i-start-posting-activity-7336790085784240128-Yz3m](https://www.linkedin.com/posts/shik_hello-fellow-hustlers-should-i-start-posting-activity-7336790085784240128-Yz3m)
