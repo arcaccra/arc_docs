@@ -19,6 +19,7 @@
 
 - [https://x.com/__prismaevents/status/1920251061320765932](https://x.com/__prismaevents/status/1920251061320765932)
 - [https://x.com/__prismaevents/status/1956091545557348524](https://x.com/__prismaevents/status/1956091545557348524)
+- We tried hiring locally, but in the end couldn't find the budget for it [https://www.linkedin.com/jobs/view/4191938655](https://www.linkedin.com/jobs/view/4191938655)
 
 **Posts by Shik:**
 
